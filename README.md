@@ -58,7 +58,13 @@ Ikuti langkah berikut untuk menjalankan aplikasi di komputer lokal Anda:
 
 ## 👥 Tim Pengembang
 
-**Program Studi S1 Informatika - Universitas Telkom**
+**Group O - Program Studi S1 Informatika - Universitas Telkom**
+
+*   **BILL STEPHEN SEMBIRING** (103012330197)
+*   **DANDI SEPTIAN YUSNIAWAN** (103012300035)
+*   **ATHILA RAMDANI SAPUTRA** (103012300132)
+*   **EMIR ISMAIL ATTHARIQ** (103012300103)
+*   **FARRIZ JIHADY HANIFA** (103012300102)
 
 Dibuat sebagai implementasi solusi informatika untuk mendukung:
 *   **SDG 11**: Sustainable Communities
